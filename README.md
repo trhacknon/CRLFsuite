@@ -67,4 +67,4 @@ sudo python3 setup.py install
 * WAF Detection methodology is taken from <a href="https://github.com/trhacknon/XSStrike/blob/master/core/wafDetector.py">XSStrike</a>
 * User-Agent list is taken from <a href="https://github.com/trhacknon/ParamSpider/blob/master/core/requester.py">ParamSpider</a>
 * WAF signatures is taken from <a href="https://github.com/trhacknon/wafw00f/tree/master/wafw00f/plugins">wafw00f</a>
-<a href="https://github.com/trhacknon/XSStrike/blob/master/db/wafSignatures.json">XSStrike</a> 
+* <a href="https://github.com/trhacknon/XSStrike/blob/master/db/wafSignatures.json">XSStrike</a> 
