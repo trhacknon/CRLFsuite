@@ -66,5 +66,5 @@ sudo python3 setup.py install
 * <a href="https://github.com/trhacknon/CRLFsuite/blob/main/crlfsuite/core/prompt.py">prompt.py</a> is taken from <a href="https://github.com/trhacknon/Arjun/blob/master/arjun/core/prompt.py">Arjun</a>
 * WAF Detection methodology is taken from <a href="https://github.com/trhacknon/XSStrike/blob/master/core/wafDetector.py">XSStrike</a>
 * User-Agent list is taken from <a href="https://github.com/trhacknon/ParamSpider/blob/master/core/requester.py">ParamSpider</a>
-* WAF signatures is taken from <a https://github.com/trhacknon/wafw00f/tree/master/wafw00f/plugins">wafw00f</a>
-ref="https://github.com/trhacknon/XSStrike/blob/master/db/wafSignatures.json">XSStrike</a> and <a href="
+* WAF signatures is taken from <a href="https://github.com/trhacknon/wafw00f/tree/master/wafw00f/plugins">wafw00f</a>
+<a href="https://github.com/trhacknon/XSStrike/blob/master/db/wafSignatures.json">XSStrike</a> 
