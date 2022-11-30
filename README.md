@@ -7,22 +7,22 @@
 [![GitHub forks](https://badgen.net/github/forks/trhacknon/CRLFsuite/)](https://gitHub.com/trhacknon/CRLFsuite/network/)
 [![GitHub contributors](https://img.shields.io/github/contributors/trhacknon/CRLFsuite)](https://GitHub.com/trhacknon/CRLFsuite/graphs/contributors/)
 
-<img src="https://github.com/Nefcore/CRLFsuite/blob/main/static/crlfsuitev2.0.svg">
+<img src="https://github.com/trhacknon/CRLFsuite/blob/main/static/crlfsuitev2.0.svg">
 
 <hr>
 
-CRLFsuite is a powerful tool for `CRLF injection` detection and exploitation. Want to know how it works. <a href="https://github.com/Nefcore/CRLFsuite/wiki/How-CRLFsuite-works%3F">Here's how</a>
+CRLFsuite is a powerful tool for `CRLF injection` detection and exploitation. Want to know how it works. <a href="https://github.com/trhacknon/CRLFsuite/wiki/How-CRLFsuite-works%3F">Here's how</a>
 ## Installation
 
 You can install CRLFsuite using `pip` as given below:
 
 ```
-pip3 install crlfsuite
+git clone https://github.com/trhacknon/CRLFsuite
+```
+```
+cd CRLFsuite
 ```
 
-or download this repository and run the following command:
-
-```
 sudo python3 setup.py install
 ```
 
