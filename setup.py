@@ -7,9 +7,10 @@ setup(
     name = "CRLFsuite",
     version = "2.5.2",
     author = "HS Devansh Raghav",
+    modder = "trhacknon",
     license = "MIT",
     keywords = ["CRLFsuite", "Bug Bounty", "pentesting", "security", "CRLF Injection"],
-    url = "https://github.com/Nefcore/CRLFsuite",
+    url = "https://github.com/trhacknon/CRLFsuite",
     packages=find_packages(),
     package_data={'crlfsuite': ['db/*']},
     classifiers=[
